@@ -1,2 +1,2 @@
-# COMP20003-ASSIGNMENT-3
+# AI-peg-solitaire-solver
 Programming AI agent using DFS to solve Peg solitaire.
